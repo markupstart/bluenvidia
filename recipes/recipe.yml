@@ -19,11 +19,7 @@ modules:
     repos:
       - https://copr.fedorainfracloud.org/coprs/ryanabx/cosmic-epoch/repo/fedora-%OS_VERSION%/ryanabx-cosmic-epoch-%OS_VERSION%.repo
     install:
-      - darktable
-      - wine
-      - winetricks
-      - mangohud
-      - lutris
+      - darktable  
       - gnome-boxes
       - libreoffice
       - ulauncher
