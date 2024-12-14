@@ -22,6 +22,8 @@ modules:
       - darktable
       - wine
       - winetricks
+      - mangohud
+      - lutris
       - gnome-boxes
       - libreoffice
       - ulauncher
@@ -87,12 +89,10 @@ modules:
         - org.gimp.GIMP.Plugin.Lensfun
         - org.gimp.GIMP.Plugin.Resynthesizer
         - org.supertuxproject.SuperTux
-        - org.freedesktop.Platform.VulkanLayer.MangoHud
         - com.valvesoftware.Steam
         - com.github.tchx84.Flatseal
         - io.github.dosbox-staging
         - md.obsidian.Obsidian
-        - net.lutris.Lutris
         - com.makemkv.MakeMKV
         - net.scribus.Scribus
         - org.kde.kdenlive
