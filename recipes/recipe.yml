@@ -65,7 +65,6 @@ modules:
       - plasma-breeze
       - breeze-gtk
       - adwaita-qt5
-      - adwaita-qt6
       - cosmic-desktop
   - type: default-flatpaks
     notify: true # Send notification after install/uninstall is finished (true/false)
