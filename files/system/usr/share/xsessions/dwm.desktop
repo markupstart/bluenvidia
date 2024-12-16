@@ -1,7 +1,0 @@
-[Desktop Entry]
-Encoding=UTF-8
-Name=DWM
-Comment=Dynamic window manager
-Exec=/home/mark/.local/bin/start-dwm
-Icon=dwm
-Type=XSession
